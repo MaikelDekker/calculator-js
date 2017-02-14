@@ -1,0 +1,38 @@
+#calculator
+{
+	width: 25%;
+	background-color: purple;
+	margin: 5% 10% 0% 38%;
+}
+
+
+.screen
+{
+	float: left; clear: left;
+	width: 70%;
+	max-width: 70%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	margin: 0% 2% 0% 1%;
+	padding: 8% 0% 0% 0%;
+	height: 50px;
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+	font-size: 150%;
+	text-align: center;
+	
+}
+.layout
+{
+	margin: 0% 0% 0% 4%;
+	padding: 0% 0% 5% 0%;
+}
+button
+{
+	margin: 2%;
+	font-size: 150%;
+	width: 19%;
+	padding: 5% 0% 5% 0%;
+}
